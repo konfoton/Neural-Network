@@ -53,7 +53,7 @@ The implementation leverages thread pooling to distribute computation across ava
 
 ## Performance Analysis
 
-Test was done on [mnist data set](https://www.kaggle.com/datasets/hojjatk/mnist-dataset)
+Test was done on [MNIST](https://www.kaggle.com/datasets/hojjatk/mnist-dataset) data set
 
 ### SGD Performance
 - **Mini-batch size**: 48
