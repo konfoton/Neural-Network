@@ -53,6 +53,8 @@ The implementation leverages thread pooling to distribute computation across ava
 
 ## Performance Analysis
 
+Test was done on [mnist data set](https://www.kaggle.com/datasets/hojjatk/mnist-dataset)
+
 ### SGD Performance
 - **Mini-batch size**: 48
 - **Single core**: 336 seconds per epoch, 81.76% efficiency
